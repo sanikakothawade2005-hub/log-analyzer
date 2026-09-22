@@ -346,7 +346,7 @@ int main()
     writeReport("======================================\n");
 
     // NOTE: These files come from the Rootly AI Labs dataset and are not included in this repo.
-    // See "Dataset Setup" in README.md.
+    // See "Dataset" in README.md.
     analyzeApacheAccessLog("data/apache_access.log");
     analyzeApacheErrorLog("data/apache_error.log");
     analyzeOpenSSHLog("data/openssh.log");
