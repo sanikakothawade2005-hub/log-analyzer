@@ -1,0 +1,33 @@
+======================================
+           LOG ANALYSIS REPORT
+======================================
+
+======================================
+APACHE ACCESS LOG STATISTICS
+======================================
+Total Requests: 4775
+Total HTTP Errors: 1559
+Skipped Lines: 0
+Most Common Status: 200 (2704)
+Most Active IP: 162.158.88.115 (443 requests)
+
+======================================
+APACHE ERROR LOG STATISTICS
+======================================
+Total Log Entries: 19524
+Skipped Lines: 0
+Most Common Error Level: error (12395)
+Most Repeated Message: workerEnv.init() ok /etc/httpd/conf/workers2.properties (1950 occurrences)
+
+======================================
+OPENSSH LOG STATISTICS
+======================================
+Total Events: 38660
+Failed Authentication Events: 11496
+Successful Authentication Events: 5
+IP With Most Failed Events: 92.222.86.142 (421)
+IP With Most Successful Events: 99.114.233.134 (5)
+
+SECURITY SUMMARY
+--------------------------------------
+Suspicious authentication activity detected.

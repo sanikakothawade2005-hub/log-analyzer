@@ -1,0 +1,8 @@
+*.exe
+*.out
+*.o
+log_analyzer
+.vscode/
+
+data/*.log
+output/*.txt
